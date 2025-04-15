@@ -1,0 +1,5 @@
+{
+    "port":8082,
+    "jwtSecret": "Omkar_Yadav",
+    "endpoint": "http://localhost:8082/api/v1"
+}
